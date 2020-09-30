@@ -1,2 +1,2 @@
 # manuales-de-R
-Manuales de R e pdf
+Manuales de R en pdf
